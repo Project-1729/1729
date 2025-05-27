@@ -10,5 +10,5 @@ Note: This is just a treasure hunt with no reward, if you feel smart enough to t
 
 <!--
 Check: Project 1729
-Hint: Not everything is where it seems. Sometimes what's hidden is meant to be found.
+Hint: Not everything is where it seems. Sometimes what's hidden is meant to be found. Start with the image
 -->
