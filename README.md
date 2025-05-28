@@ -1,14 +1,17 @@
-# Project 1729
+# You’re Not Supposed to Be Here
 
-> *All patterns hide something. Some numbers matter more than others.*
+> Some arrive because they followed the signs.  
+> Others arrive because they tore through the forest blindly.  
+> We can tell the difference.
 
-This repository is part of a larger experiment.  
-Only those who see beyond the surface will find what they are looking for.  
-Question what is visible.
+If you’ve reached this branch by following the clues, congratulations — you’re progressing correctly.  
+If, however, you found this by manually checking branches one by one, we suggest you return and follow the intended path.  
+This is a game of perception and logic, not brute force.
 
-Note: This is just a treasure hunt with no reward, if you feel smart enough to take it on, go ahead, you're welcome.
+We won't punish you, but know this:  
+**If you lie, we’ll know.**  
+And if you're honest, the journey will reward you.
 
-<!--
-Check: Project 1729
-Hint: Not everything is where it seems. Sometimes what's hidden is meant to be found. Start with the image
--->
+Follow the trail. Trust the signs. The number matters: **1729**
+
+#1729
