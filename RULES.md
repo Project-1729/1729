@@ -25,5 +25,7 @@ These are the **only rules** you are expected to follow during your time inside 
 - You will be notified. The decision is final.
 - If you're unsure whether something can be shared: **Don’t share it.**
 
+PD: All public interaction must happen through the Discussions tab. If you are caught sharing solutions elsewhere, you'll be banned from all future games.
+
 Good luck,  
 – Project 1729
