@@ -8,7 +8,7 @@ Question what is visible.
 
 Note: This is just a treasure hunt with no reward, if you feel smart enough to take it on, go ahead, you're welcome.
 
-PD: Make sure to check ./RULES.md
+PD: Make sure to check ./RULES.md.
 
 <!--
 Check: Project 1729
